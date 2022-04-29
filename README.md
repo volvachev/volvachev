@@ -13,10 +13,10 @@ Check my twitter at [https://twitter.com/e_axesing](https://twitter.com/e_axesin
 
 I'm a software engineer with over six years of professional experience.🚀
 
-I'm always aware of the latest technologies and use the most useful ones in practice. I like projects that follow to the principles of `SOLID`, `GRASP`, `Law of Demeter` etc.
+I'm always aware of the latest technologies and using the most useful ones in practice. I like projects that follow to the principles of `SOLID`, `GRASP`, `Law of Demeter` etc.
 I'm most passionate about frontend development with `Angular` & `Vue` & `React`.
 
-For the last year I've been designing a microfrontend architecture using `webpack module federation`⛩️. I have a lot of experience in using `web-workers` in applications.
+During the last year I've been designing a microfrontend architecture using `webpack module federation`. I have a lot of experience in using `web-workers` in applications.
 
 > 💪Practice makes perfect!
 
