@@ -37,4 +37,7 @@ During the last year I've been designing a microfrontend architecture using `web
 ## Stats
 
 ![volvachev's github stats](https://github-readme-stats.vercel.app/api?username=volvachev&show_icons=true&hide_border=false&theme=noctis_minimus&count_private=true&hide_title=false&include_all_commits=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volvachev&hide=html&theme=noctis_minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Current streak](https://github-readme-streak-stats.herokuapp.com/?user=volvachev&theme=ayu-mirage&count_private=true&hide_border=true)
